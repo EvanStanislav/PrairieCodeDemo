@@ -1,1 +1,4 @@
-Adding some words to text file
+Adding some words to text file and fixing typos
+
+New line here
+	tabbed in new line
