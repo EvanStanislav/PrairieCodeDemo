@@ -4,3 +4,5 @@ New line here
 	tabbed in new line
 
 Change after add, wont be committed
+
+Making a change to try out difftool
